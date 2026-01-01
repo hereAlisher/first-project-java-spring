@@ -15,3 +15,6 @@ A minimal Spring Boot web application demonstrating:
 1. Run the application using your IDE or with `mvn spring-boot:run`
 2. Open a browser and visit:
     - http://localhost:8080/greeting?name=YourName
+<img width="767" height="765" alt="screen" src="https://github.com/user-attachments/assets/7ce2a997-0297-406d-856a-7bcbbec4285b" />
+
+
